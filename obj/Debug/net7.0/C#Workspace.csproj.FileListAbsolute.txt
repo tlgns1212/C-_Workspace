@@ -1,0 +1,15 @@
+E:\SihoonWorkSpace\C#Workspace\bin\Debug\net7.0\C#Workspace.exe
+E:\SihoonWorkSpace\C#Workspace\bin\Debug\net7.0\C#Workspace.deps.json
+E:\SihoonWorkSpace\C#Workspace\bin\Debug\net7.0\C#Workspace.runtimeconfig.json
+E:\SihoonWorkSpace\C#Workspace\bin\Debug\net7.0\C#Workspace.dll
+E:\SihoonWorkSpace\C#Workspace\bin\Debug\net7.0\C#Workspace.pdb
+E:\SihoonWorkSpace\C#Workspace\obj\Debug\net7.0\C#Workspace.csproj.AssemblyReference.cache
+E:\SihoonWorkSpace\C#Workspace\obj\Debug\net7.0\C#Workspace.GeneratedMSBuildEditorConfig.editorconfig
+E:\SihoonWorkSpace\C#Workspace\obj\Debug\net7.0\C#Workspace.AssemblyInfoInputs.cache
+E:\SihoonWorkSpace\C#Workspace\obj\Debug\net7.0\C#Workspace.AssemblyInfo.cs
+E:\SihoonWorkSpace\C#Workspace\obj\Debug\net7.0\C#Workspace.csproj.CoreCompileInputs.cache
+E:\SihoonWorkSpace\C#Workspace\obj\Debug\net7.0\C#Workspace.dll
+E:\SihoonWorkSpace\C#Workspace\obj\Debug\net7.0\refint\C#Workspace.dll
+E:\SihoonWorkSpace\C#Workspace\obj\Debug\net7.0\C#Workspace.pdb
+E:\SihoonWorkSpace\C#Workspace\obj\Debug\net7.0\C#Workspace.genruntimeconfig.cache
+E:\SihoonWorkSpace\C#Workspace\obj\Debug\net7.0\ref\C#Workspace.dll
