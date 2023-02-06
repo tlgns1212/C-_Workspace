@@ -1,0 +1,8 @@
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Factorial\bin\Debug\Factorial.exe.config
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Factorial\bin\Debug\Factorial.exe
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Factorial\bin\Debug\Factorial.pdb
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Factorial\obj\Debug\Factorial.csproj.SuggestedBindingRedirects.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Factorial\obj\Debug\Factorial.exe
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Factorial\obj\Debug\Factorial.pdb

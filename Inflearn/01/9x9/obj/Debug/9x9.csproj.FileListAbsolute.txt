@@ -1,0 +1,8 @@
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\9x9\bin\Debug\9x9.exe.config
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\9x9\bin\Debug\9x9.exe
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\9x9\bin\Debug\9x9.pdb
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\9x9\obj\Debug\9x9.csproj.AssemblyReference.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\9x9\obj\Debug\9x9.csproj.SuggestedBindingRedirects.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\9x9\obj\Debug\9x9.csproj.CoreCompileInputs.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\9x9\obj\Debug\9x9.exe
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\9x9\obj\Debug\9x9.pdb

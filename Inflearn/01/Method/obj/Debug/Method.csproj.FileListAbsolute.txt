@@ -1,0 +1,8 @@
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Method\bin\Debug\Method.exe.config
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Method\bin\Debug\Method.exe
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Method\bin\Debug\Method.pdb
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Method\obj\Debug\Method.csproj.SuggestedBindingRedirects.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Method\obj\Debug\Method.exe
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\Method\obj\Debug\Method.pdb
