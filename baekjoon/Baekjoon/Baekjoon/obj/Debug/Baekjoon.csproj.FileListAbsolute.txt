@@ -1,0 +1,8 @@
+E:\SihoonWorkSpace\C#Workspace\baekjoon\Baekjoon\Baekjoon\bin\Debug\Baekjoon.exe.config
+E:\SihoonWorkSpace\C#Workspace\baekjoon\Baekjoon\Baekjoon\bin\Debug\Baekjoon.exe
+E:\SihoonWorkSpace\C#Workspace\baekjoon\Baekjoon\Baekjoon\bin\Debug\Baekjoon.pdb
+E:\SihoonWorkSpace\C#Workspace\baekjoon\Baekjoon\Baekjoon\obj\Debug\Baekjoon.csproj.AssemblyReference.cache
+E:\SihoonWorkSpace\C#Workspace\baekjoon\Baekjoon\Baekjoon\obj\Debug\Baekjoon.csproj.SuggestedBindingRedirects.cache
+E:\SihoonWorkSpace\C#Workspace\baekjoon\Baekjoon\Baekjoon\obj\Debug\Baekjoon.csproj.CoreCompileInputs.cache
+E:\SihoonWorkSpace\C#Workspace\baekjoon\Baekjoon\Baekjoon\obj\Debug\Baekjoon.exe
+E:\SihoonWorkSpace\C#Workspace\baekjoon\Baekjoon\Baekjoon\obj\Debug\Baekjoon.pdb
