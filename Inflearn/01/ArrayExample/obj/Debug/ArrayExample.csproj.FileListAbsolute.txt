@@ -1,0 +1,8 @@
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\ArrayExample\bin\Debug\ArrayExample.exe.config
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\ArrayExample\bin\Debug\ArrayExample.exe
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\ArrayExample\bin\Debug\ArrayExample.pdb
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\ArrayExample\obj\Debug\ArrayExample.csproj.AssemblyReference.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\ArrayExample\obj\Debug\ArrayExample.csproj.SuggestedBindingRedirects.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\ArrayExample\obj\Debug\ArrayExample.csproj.CoreCompileInputs.cache
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\ArrayExample\obj\Debug\ArrayExample.exe
+E:\SihoonWorkSpace\C#Workspace\Inflearn\01\ArrayExample\obj\Debug\ArrayExample.pdb
